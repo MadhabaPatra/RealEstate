@@ -15,6 +15,6 @@ and MYSQL
 after install mysql 
 give 123456 password in mysql
 then type following code
-create database madhaba;
+create database RealEstate;
 ```
 
